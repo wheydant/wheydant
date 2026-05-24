@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Vedant Karlekar
 
-**wheydant/wheydant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at Oracle Finanacial Software Services<br/>
